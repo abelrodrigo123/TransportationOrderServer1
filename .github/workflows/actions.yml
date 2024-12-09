@@ -121,7 +121,6 @@ jobs:
         location: 'us-central1'
 
 
-
     # The KUBECONFIG env var is automatically exported and picked up by kubectl.
 
     - id: 'deployment-mypod'
